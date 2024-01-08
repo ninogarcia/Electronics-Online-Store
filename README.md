@@ -9,3 +9,25 @@ Throughout this portfolio, I leverage my skills as a data analyst to unravel pat
 
 Feel free to join me on this analytical journey as we unlock the potential hidden within the realms of home appliances and electronics purchase data.
 
+## Data Exploration:
+
+Check column types
+
+```sql
+SELECT column_name AS columns, data_type
+FROM information_schema.columns
+WHERE table_name = 'e_data';
+```
+
+| columns       | type                        |
+|---------------|-----------------------------|
+| price         | numeric                     |
+| event_time    | timestamp with time zone    |
+| product_id    | character varying           |
+| category_id   | character varying           |
+| category_code | character varying           |
+| brand         | character varying           |
+| user_id       | character varying           |
+| order_id      | character varying           |
+
+
