@@ -11,7 +11,7 @@ This portfolio unlocks potential hidden within realms of home appliances and ele
 
 - Data Exploration
 - Data Cleaning
-- Rime Series Analysis
+- Time Series Analysis
 - Product Analysis
 
 &nbsp;
