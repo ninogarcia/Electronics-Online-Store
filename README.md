@@ -9,11 +9,14 @@ As a data analyst, I leverage skills to unravel patterns, trends, and meaningful
 # Contents
 This portfolio unlocks potential hidden within realms of home appliances and electronics purchase data. Key topics explored include:
 
-Data Exploration
-Data Cleaning
-Rime Series Analysis
-Product Analysis
+- Data Exploration
+- Data Cleaning
+- Rime Series Analysis
+- Product Analysis
+
+&nbsp;
 And more!
+
 
 # Getting Started
 To explore this portfolio, begin with the Jupyter Notebook intro.ipynb for an overview of dataset contents and analysis approach. Individual analysis files are found in the reports folder. Contact me for any other assistance!
