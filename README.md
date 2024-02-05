@@ -1,33 +1,19 @@
-# Electronics Online Store
+# Data Analysis Portfolio: Home Appliances and Electronics Purchase Data
+This is a comprehensive data analysis portfolio delving into purchase data collected from a large home appliances and electronics online store between January 2020 to November 2020.
 
-## Introduction:
-Welcome to my comprehensive data analysis portfolio, where I delve into the purchase data collected from a large home appliances and electronics online store. The dataset spans from April 2020 to November 2020, providing a rich source of information about the interactions between products and users.
+# Description
+The dataset, obtained through the Open CDP project, captures product transaction events - each row signifying an event representing a many-to-many relationship between products and users. This unique perspective allows for exploration of customer behavior, product performance, and business insights.
 
-The dataset, obtained through the Open CDP project, captures events related to product transactions. Each row in the file signifies an event, representing a many-to-many relationship between products and users. This unique perspective allows for a thorough exploration of customer behavior, product performance, and valuable business insights.
+As a data analyst, I leverage skills to unravel patterns, trends, and meaningful correlations within this extensive dataset. The openly sourced customer data enables deep dive into dynamics of an online store, offering opportunities to extract actionable insights and recommendations.
 
-Throughout this portfolio, I leverage my skills as a data analyst to unravel patterns, trends, and meaningful correlations within this extensive dataset. The data, sourced from an open customer data platform, enables a deep dive into the dynamics of an online store, offering opportunities to extract actionable insights and recommendations.
+# Contents
+This portfolio unlocks potential hidden within realms of home appliances and electronics purchase data. Key topics explored include:
 
-Feel free to join me on this analytical journey as we unlock the potential hidden within the realms of home appliances and electronics purchase data.
+Data Exploration
+Data Cleaning
+Rime Series Analysis
+Product Analysis
+And more!
 
-## Data Exploration:
-
-Check column types
-
-```sql
-SELECT column_name AS columns, data_type
-FROM information_schema.columns
-WHERE table_name = 'e_data';
-```
-
-| columns       | type                        |
-|---------------|-----------------------------|
-| price         | numeric                     |
-| event_time    | timestamp with time zone    |
-| product_id    | character varying           |
-| category_id   | character varying           |
-| category_code | character varying           |
-| brand         | character varying           |
-| user_id       | character varying           |
-| order_id      | character varying           |
-
-
+# Getting Started
+To explore this portfolio, begin with the Jupyter Notebook intro.ipynb for an overview of dataset contents and analysis approach. Individual analysis files are found in the reports folder. Contact me for any other assistance!
