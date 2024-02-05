@@ -19,4 +19,4 @@ And more!
 
 
 # Getting Started
-To explore this portfolio, begin with the Jupyter Notebook intro.ipynb for an overview of dataset contents and analysis approach. Individual analysis files are found in the reports folder. Contact me for any other assistance!
+To explore this portfolio, begin with the Jupyter Notebook Electronics Store Notebook.ipynb for an overview of dataset contents and analysis approach. Individual analysis files are found in the reports folder. Contact me for any other assistance!
