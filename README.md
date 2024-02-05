@@ -20,3 +20,8 @@ And more!
 
 # Getting Started
 To explore this portfolio, begin with the Jupyter Notebook Electronics Store Notebook.ipynb for an overview of dataset contents and analysis approach. Individual analysis files are found in the reports folder. Contact me for any other assistance!
+
+
+ #### 📫 Get in touch!  
+  
+  [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discordapp.com/users/292214901596880898)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/ninogarci/)  &nbsp; [<img src="https://github.com/ninogarcia/ninogarcia/assets/7455410/735dc301-cb31-4c8b-ba1b-035fa304ac84" width="3.5%"/>](https://www.upwork.com/freelancers/~01dd78612ac234aadd) &nbsp; <a href="mailto:frostnino@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> 
